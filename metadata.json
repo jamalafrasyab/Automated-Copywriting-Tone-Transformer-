@@ -1,0 +1,6 @@
+{
+  "name": "DecodeLabs CopyTransformer - GenAI Industrial Training Kit",
+  "description": "Enterprise Automated Copywriting & Tone Transformer engine with dynamic prompt template compilation, inference parameter tuning, concurrency semaphores, and Pydantic-grade output schemas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
